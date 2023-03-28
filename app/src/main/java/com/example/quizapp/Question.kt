@@ -23,11 +23,11 @@ fun getQuestions() : ArrayList<Question> {
     questions.add(q1)
 
     val q2 = Question(1,
-        "Which attribute must be set in the linear layout?",
-        "android:padding",
-        "android:gravity",
-        "android:orientation",
-        "android:margin",
+        "Which layout is designed to block an area of the screen to display a single item?",
+        "Table Layout",
+        "Linear Layout",
+        "Frame Layout",
+        "Constraint Layout",
         "C"
     )
     questions.add(q2)
